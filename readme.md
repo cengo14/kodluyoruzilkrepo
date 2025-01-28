@@ -21,6 +21,10 @@ cd kodluyoruzilkrepo
 code .
 ```
 
+# SecreenShots
+
+![Ekran görüntüsü](./image.png)
+
 # Contributing
 
 Pull requestler kabul edilirç Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
