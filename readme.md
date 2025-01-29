@@ -1,6 +1,6 @@
 # Koduyoruz İlk Repo
 
-Bu repo [Kodluyoruz](https://academy.patika.dev/tr/courses/git/odev-1) Backend Eğitimindeoluşturduğumuz ilk repo. İçerisinde bir adet README bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://academy.patika.dev/tr/courses/git/odev-1) Backend Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README bir adet de index.html barındırıyor.
 
 # Installation
 
@@ -27,7 +27,7 @@ code .
 
 # Contributing
 
-Pull requestler kabul edilirç Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # Licence
 
